@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T17:31:11 IST" name="Default suite" finished-at="2022-11-18T17:33:13 IST" duration-ms="122016">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T17:31:11 IST" name="Default test" finished-at="2022-11-18T17:33:13 IST" duration-ms="122016">
+      <class name="SoftAssert.FirefoxTest">
+        <test-method signature="firefox()[pri:0, instance:SoftAssert.FirefoxTest@2f217633]" started-at="2022-11-18T17:31:11 IST" name="firefox" finished-at="2022-11-18T17:33:13 IST" duration-ms="121799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefox -->
+      </class> <!-- SoftAssert.FirefoxTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
