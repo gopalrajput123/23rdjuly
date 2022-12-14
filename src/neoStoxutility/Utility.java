@@ -66,6 +66,8 @@ public class Utility
 		
 		}
 		//added comment
+		
+		
 		public static String readDataFromPropertyFile(String key) throws IOException
 		{
 			//create object of properties class
