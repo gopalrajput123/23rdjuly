@@ -58,7 +58,6 @@ public class Utility
 			JavascriptExecutor js=(JavascriptExecutor)driver;
 			js.executeScript("arguments[0].scrollIntoView(true)",element);
 			Reporter.log("scrolling into view "+element.getText(),true);
-
 		}
 		public static void wait(WebDriver driver, int waittime)
 		{
@@ -66,8 +65,6 @@ public class Utility
 		Reporter.log("waiting for "+waittime+"milis",true);
 		
 		}
-		
-		
 		public static String readDataFromPropertyFile(String key) throws IOException
 		{
 			//create object of properties class
