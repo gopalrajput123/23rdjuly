@@ -65,6 +65,7 @@ public class Utility
 		Reporter.log("waiting for "+waittime+"milis",true);
 		
 		}
+		//added comment
 		public static String readDataFromPropertyFile(String key) throws IOException
 		{
 			//create object of properties class
