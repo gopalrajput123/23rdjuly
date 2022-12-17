@@ -12,6 +12,8 @@ public class myTest
 	  Reporter.log("A method is running using-->log");
 	  Reporter.log("A method is running using log true",true);
   }
+	
+	//comment added
   @Test
   public void B()
   {
